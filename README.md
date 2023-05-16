@@ -5,7 +5,7 @@
 [![Code Quality](https://img.shields.io/scrutinizer/g/flyntwp/flynt.svg)](https://scrutinizer-ci.com/g/flyntwp/flynt/?branch=master)
 
 ## Short Description
-[Flynt](https://flyntwp.com/) is a WordPress theme for component-based development using [Timber](#page-templates) and [Advanced Custom Fields](#advanced-custom-fields).
+[Flynt] is a WordPress theme for component-based development using [Timber](#page-templates) and [Advanced Custom Fields](#advanced-custom-fields).
 
 ## Table of Contents
 * [Install](#install)
@@ -233,18 +233,6 @@ add_filter('Flynt/TimberDynamicResize/relativeUploadDir', function () {
 ### Browsersync
 
 If browsersync is not working and you are not serving WordPress on https, try changing the `browsersync.https` value to `false` in the file `build-config.js`.
-
-## Maintainers
-This project is maintained by [bleech](https://github.com/bleech).
-
-The main people in charge of this repo are:
-* [Steffen Bewersdorff](https://github.com/steffenbew)
-* [Dominik Tränklein](https://github.com/domtra)
-
-## Contributing
-To contribute, please use GitHub [issues](https://github.com/flyntwp/flynt/issues). Pull requests are accepted. Please also take a moment to read the [Contributing Guidelines](https://github.com/flyntwp/guidelines/blob/master/CONTRIBUTING.md) and [Code of Conduct](https://github.com/flyntwp/guidelines/blob/master/CODE_OF_CONDUCT.md).
-
-If editing the README, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
 
 ## License
 MIT © [bleech](https://www.bleech.de)
